@@ -1,0 +1,17 @@
+# Ignore common files and folders
+node_modules/
+.npm
+.env
+.env.local
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+dist/
+build/
+.parcel-cache/
+*.log
+npm-debug.log*
+.git/
